@@ -55,3 +55,9 @@ It evaluates understanding of AI ethics principles, ability to identify and miti
 ```bash
 git clone https://github.com/<your-username>/Designing-Responsible-and-Fair-AI-Systems.git
 cd Designing-Responsible-and-Fair-AI-Systems
+**1️⃣ Install dependencies**
+
+```bash
+pip install -r requirements.txt
+
+
